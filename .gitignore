@@ -24,3 +24,8 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+#I don't want secrets files included in version control
+/config/storage.yml
+/config/credentials.yml.enc
+
