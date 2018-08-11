@@ -61,6 +61,8 @@ gem 'devise', '~> 4.4', '>= 4.4.3'
 
 gem 'bootstrap', '~> 4.1.3'
 
+gem 'cjm_view_tool', git: 'https://github.com/cjaymarshall/cjm_view_tool'
+
 
 
 

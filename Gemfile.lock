@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/cjaymarshall/cjm_view_tool
+  revision: c4d303b0e8e6feb771ff7d727ccee61db1bb3b29
+  specs:
+    cjm_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -200,6 +206,7 @@ DEPENDENCIES
   bootsnap (>= 1.1.0)
   bootstrap (~> 4.1.3)
   byebug
+  cjm_view_tool!
   coffee-rails (~> 4.2)
   devise (~> 4.4, >= 4.4.3)
   friendly_id (~> 5.2.0)
